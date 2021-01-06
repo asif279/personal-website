@@ -34,24 +34,4 @@
 
 
    
-.first-side{
-    width: 40%;
-    float:left;
-    margin-left: 3%;
-    margin-top: 1%;
-    padding-left: 3%;
-   }
-   
-.color1{
-font-size: 50px;
-color:rgba(54, 57, 88, 1);
-font-family:'Times New Roman', Times, serif;
-font-weight: bold;
-}
-.color2{
-    font-size: 50px;
-    color:rgba(255, 131, 103, 1);
-    ont-family:'Times New Roman', Times, serif;
-font-weight: bold;
-}
 
